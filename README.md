@@ -6,3 +6,5 @@ In order to execute the code the files must be in a folder named "FP" and at its
 The input images will be taken from the "/DeepLearning_2020/FP/Data" folder and the output will be placed in "/DeepLearning_2020/FP/Results".
 
 The animal faces experiment has been a fail like we mentioned in the oral presentation.
+
+The folder "/DeepLearning_2020/FP/Results/testGifs" contains all the test outputs we have done so far.
