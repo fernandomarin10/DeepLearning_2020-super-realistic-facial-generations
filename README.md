@@ -1,7 +1,9 @@
 # DeepLearning_2020-super-realistic-facial-generations
-## Team: Fernando Marín - Marta Mir - Mateu Busquets
+### Team: Fernando Marín - Marta Mir - Mateu Busquets
 ## Project structure
-Data folder contains all the inputs and Results all the outputs. The folder "/DeepLearning_2020/FP/Results/testGifs" contains all the test outputs we have done so far.
+Data folder contains all the inputs and Results all the outputs.
+
+The folder "/DeepLearning_2020/FP/Results/testGifs" contains all the test outputs we have done so far.
 
 ## Instrucctions
 In order to execute the code the files must be in a folder named "FP" and at its time this folder must be in the directory: /content/drive/My Drive/DeepLearning_2020/.
